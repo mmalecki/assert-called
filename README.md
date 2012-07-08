@@ -34,5 +34,6 @@ AssertionError: 1 callback not called:
   notCalled
 ```
 
+## How it works
 `assert-called` attaches a `process.on('exit')` listener to make sure that
 all registered callbacks are eventually called.
