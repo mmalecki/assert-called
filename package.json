@@ -1,0 +1,10 @@
+{
+  "name": "assert-called",
+  "version": "0.0.0",
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "description": "Assert that your callback got called",
+  "main": "./lib/assert-called",
+  "scripts": {
+    "test": "node test/assert-called-test.js"
+  }
+}
