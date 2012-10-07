@@ -1,6 +1,6 @@
 {
   "name": "assert-called",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "description": "Assert that your callback got called",
   "main": "./lib/assert-called",
