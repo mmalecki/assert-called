@@ -6,5 +6,10 @@
   "main": "./lib/assert-called",
   "scripts": {
     "test": "node test/assert-called-test.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmalecki/assert-called.git"
+  },
+  "license": "MIT"
 }
